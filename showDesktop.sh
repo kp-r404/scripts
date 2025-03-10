@@ -1,4 +1,5 @@
-#Type in Terminal to enable execute function: chmod +x ~/Desktop/showDesktop.sh
+#Open Terminal
+#Enable execute function: chmod +x ~/Desktop/showDesktop.sh
 
 
 #!/bin/bash
