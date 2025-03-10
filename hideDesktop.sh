@@ -1,4 +1,5 @@
-#Type in Termina to enable execute function: chmod +x ~/Desktop/hideDesktop.sh
+#Open Terminal
+#Enable execute function: chmod +x ~/Desktop/hideDesktop.sh
 
 
 #!/bin/bash
